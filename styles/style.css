@@ -78,10 +78,11 @@ footer {
   min-height: 368px;
 }
 
-  section#hero {
+section#hero {
   border: 1px solid purple;
   height: 340px;
   background: url(assets/hero_bg.png);
+  background-image: url("../assets/hero_bg1.png");
   background-size: cover;
   background-position: top center;
 }
@@ -94,7 +95,7 @@ section#hero .container {
 
 .title-container span {
   display: block;
-  color: white;
+  color: black;
   font-weight: 700;
 }
 
